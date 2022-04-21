@@ -1,6 +1,6 @@
 # Stock_Projection_with_Machine_Learning
 
-Website link: https://jordanjaner.github.io/stock-forecaster/
+Website link: https://bakeralexan.github.io/stock-forecaster/
 
 <img src="/templates/images/stock_main.jpg" alt="Stock Projection with Machine Learning and LSTM"/>
 
